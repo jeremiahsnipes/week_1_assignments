@@ -23,8 +23,9 @@ Python · NumPy · Pandas · Scikit-learn · TensorFlow / Keras · Matplotlib ·
 Accuracy · Loss · Confusion Matrix · Validation Performance
 
 **Files**
-- 'Jeremiah_Snipes_Assignment2B_ThreeLayer_ANN.ipynb'
-- 'assignment_2B_confusion_matrix.png'
+- `Jeremiah_Snipes_Assignment2B_ThreeLayer_ANN.ipynb`
+- `assignment_2B_confusion_matrix.png`
+- `Churn_Modelling.csv`
 
 **Summary**
 The ANN achieved an overall test accuracy of 85.6 %, correctly identifying most customers who stayed while modestly under-detecting churners—typical of class-imbalanced datasets.
