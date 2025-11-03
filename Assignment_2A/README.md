@@ -25,3 +25,4 @@ Accuracy, Precision, Recall, F1 Score, Confusion Matrix
 **Summary**
 Random Forest and XGBoost achieved the top accuracy scores, while Logistic Regression provided a reliable baseline for comparison.
 
+![Model Comparison Results](model_results_table.png)
